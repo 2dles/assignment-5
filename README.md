@@ -1,3 +1,8 @@
+
+# Coupon Acceptance Analysis
+
+**[View Full Analysis Notebook](./assignment_5.ipynb)**
+
 ## Findings and Recommendations
 
 ### What I found
